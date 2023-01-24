@@ -3,6 +3,8 @@
 #include <vector>
 #include <uncertain.h>
 
+#define DEBUG
+
 int
 main(int argc, char *  argv[])
 {
